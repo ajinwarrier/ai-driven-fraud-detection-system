@@ -1,0 +1,8 @@
+Model: Logistic Regression (with SMOTE)
+
+Evaluation Metrics:
+-------------------
+Precision (Fraud - Class 1): 0.86
+Recall (Fraud - Class 1): 0.91
+F1-Score (Fraud - Class 1): 0.88
+ROC-AUC Score: 0.94
